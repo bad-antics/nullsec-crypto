@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 HashID - Hash Type Identifier
-Author: bad-antics | GitHub: bad-antics | Discord: x.com/AnonAntics
+Author: bad-antics | GitHub: bad-antics | Twitter: x.com/AnonAntics
 License: NCRY-XXX (Get key at x.com/AnonAntics)
 
      ▓█████▄  ██▀███   ██▓ ██▓███      ██░ ██  ▄▄▄        ██████  ██░ ██  ██▓▓█████▄ 
