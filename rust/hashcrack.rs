@@ -1,7 +1,7 @@
 /*
  * HashCrack - Multi-threaded Hash Cracker
- * Author: bad-antics | GitHub: bad-antics | Discord: discord.gg/killers
- * License: NCRY-XXX (Get key at discord.gg/killers)
+ * Author: bad-antics | GitHub: bad-antics | Discord: x.com/AnonAntics
+ * License: NCRY-XXX (Get key at x.com/AnonAntics)
  *
  *     ▓█████▄  ██▀███   ██▓ ██▓███      ▄████▄   ██▀███   ▄▄▄       ▄████▄   ██ ▄█▀
  *     ▒██▀ ██▌▓██ ▒ ██▒▓██▒▓██░  ██▒  ▒██▀ ▀█  ▓██ ▒ ██▒▒████▄    ▒██▀ ▀█   ██▄█▒ 
@@ -339,7 +339,7 @@ fn print_usage() {
     println!("  hashcrack --identify 5d41402abc4b2a76b9719d911017c592");
     println!("  hashcrack -m sha256 -w wordlist.txt -t 8 -o cracked.txt hashes.txt");
     println!();
-    println!("Get premium at discord.gg/killers");
+    println!("Get premium at x.com/AnonAntics");
 }
 
 fn main() {
@@ -390,7 +390,7 @@ fn main() {
             }
             "-v" | "--version" => {
                 println!("HashCrack v{}", VERSION);
-                println!("github.com/bad-antics | discord.gg/killers");
+                println!("github.com/bad-antics | x.com/AnonAntics");
                 return;
             }
             "-h" | "--help" => {

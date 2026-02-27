@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 HashID - Hash Type Identifier
-Author: bad-antics | GitHub: bad-antics | Discord: discord.gg/killers
-License: NCRY-XXX (Get key at discord.gg/killers)
+Author: bad-antics | GitHub: bad-antics | Discord: x.com/AnonAntics
+License: NCRY-XXX (Get key at x.com/AnonAntics)
 
      ▓█████▄  ██▀███   ██▓ ██▓███      ██░ ██  ▄▄▄        ██████  ██░ ██  ██▓▓█████▄ 
      ▒██▀ ██▌▓██ ▒ ██▒▓██▒▓██░  ██▒   ▓██░ ██▒▒████▄    ▒██    ▒ ▓██░ ██▒▓██▒▒██▀ ██▌
@@ -223,7 +223,7 @@ Examples:
   python3 hashid.py -f hashes.txt -v
   python3 hashid.py --test md5
 
-Get premium at discord.gg/killers
+Get premium at x.com/AnonAntics
         '''
     )
     
@@ -239,7 +239,7 @@ Get premium at discord.gg/killers
     
     if args.version:
         print("HashID v2.0.0")
-        print("github.com/bad-antics | discord.gg/killers")
+        print("github.com/bad-antics | x.com/AnonAntics")
         return
     
     if args.test:

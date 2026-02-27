@@ -10,7 +10,7 @@ bad-antics, NullSec Framework, crypto analysis, rainbow tables, hash identifier
 
 ### Advanced Cryptography & Hash Analysis Toolkit
 
-[![Discord](https://img.shields.io/badge/🔑_GET_KEYS-discord.gg/killers-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/killers)
+[![X/Twitter](https://img.shields.io/badge/🔑_GET_KEYS-x.com/AnonAntics-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/AnonAntics)
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bad-antics)
 [![License](https://img.shields.io/badge/License-NCRY--XXX-red?style=for-the-badge)](LICENSE)
 
@@ -33,7 +33,7 @@ bad-antics, NullSec Framework, crypto analysis, rainbow tables, hash identifier
                        bad-antics
 ```
 
-### 🔓 **[Join discord.gg/killers](https://discord.gg/killers)** for premium features!
+### 🔓 **[Join x.com/AnonAntics](https://x.com/AnonAntics)** for premium features!
 
 </div>
 
@@ -118,6 +118,6 @@ python3 hashid.py -f hashes.txt
 
 <div align="center">
 
-**NullSec Framework** | [GitHub](https://github.com/bad-antics) | [Discord](https://discord.gg/killers)
+**NullSec Framework** | [GitHub](https://github.com/bad-antics) | [X/Twitter](https://x.com/AnonAntics)
 
 </div>
